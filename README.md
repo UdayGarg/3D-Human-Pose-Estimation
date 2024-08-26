@@ -86,3 +86,9 @@ Our models achieved the following performance on the Human3.6M benchmark using t
 
 The current state-of-the-art (SOTA) performance on this benchmark is around 30 mm, as reported in this paper ([here](https://arxiv.org/pdf/2401.09836))
 
+## Acknowledgements
+
+Huge thanks to my project partners - Bargav, Akshat, and Mounika. It wouldn't have been possible without you.
+
+
+
