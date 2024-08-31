@@ -13,6 +13,8 @@ A significant portion of the code related to data processing and visualization i
 
 Big shoutout to the contributors of these projects for their exceptional work!
 
+Also, huge thanks to my project partners - Bargav, Akshat, and Mounika. It wouldn't have been possible to accomplish this task without there help.
+
 ## Environment Setup
 
 This project has been developed and tested with the following environment:
@@ -86,9 +88,7 @@ Our models achieved the following performance on the Human3.6M benchmark using t
 
 The current state-of-the-art (SOTA) performance on this benchmark is around 30 mm, as reported in this paper ([here](https://arxiv.org/pdf/2401.09836))
 
-## Acknowledgements
 
-Huge thanks to my project partners - Bargav, Akshat, and Mounika. It wouldn't have been possible without you.
 
 
 
